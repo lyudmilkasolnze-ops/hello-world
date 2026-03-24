@@ -26,3 +26,4 @@ Uizard / Galileo AI — быстрое прототипирование.
 
 
 --https://www.figma.com/design/X3noKLl3N2MhscWFQQKJ5I/Untitled?node-id=0-1&p=f&m=draw
+[Мои макеты.pdf](https://github.com/user-attachments/files/26203249/default.pdf)
