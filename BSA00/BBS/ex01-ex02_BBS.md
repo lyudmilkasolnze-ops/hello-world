@@ -1,4 +1,4 @@
-# Упражнение 01 - Источники информации
+# 01 - Источники информации
 
 ### BBS_infosources 
 
@@ -11,6 +11,15 @@
 | 5 | Интервью, опросы | Статья "Проблемы ручного бронирования" | Анастасия Машеро. Соучредитель "BeautyКафедра" и "Marchei"<br>Экс-руководитель сетей DESSANGE, MONE, Спортив. Модератор форума "SalonWeek", автор книги про управление "Творческие". | 26/08/2025 | https://salon1c.ru/blog/onlajn-bronirovanie-kak-programma-dlya-zapisi-uluchshaet-proczess-registraczii-klientov-v-salone-krasoty/#problems | средний | изучено | Проблемы ручного бронирования |
 | 6 | Мировой опыт, лучшие практики, опыт конкурентов | Веб-версия (DIKIDI Business) и мобильное приложение для клиентов (DIKIDI Online) | ТОО "ABS LLC (АБС) | разработан в 2014 | https://dikidi.ru/ru/ | средний | Включен в реестр российского ПО | Проанализировать функции конкурентов |
 
+# Список ссылок
+
+1. https://base.garant.ru/12148567/
+2. https://legalacts.ru/doc/prikaz-minkomsvjazi-rossii-ot-23042020-n-191-o-vkliuchenii/
+3. https://salon1c.ru/blog/onlajn-bronirovanie-kak-programma-dlya-zapisi-uluchshaet-proczess-registraczii-klientov-v-salone-krasoty/#advantages
+4. https://support.dikidi.net/ru/knowledge-bases/4/articles/306-pravila-onlajn-zapisi
+5. https://salon1c.ru/blog/onlajn-bronirovanie-kak-programma-dlya-zapisi-uluchshaet-proczess-registraczii-klientov-v-salone-krasoty/#problems
+6. https://dikidi.ru/ru/
+   
 ### FRECH_infosources
 
 | № п/п | Источник | Название | Автор | Дата публикации | URL-адрес | Приоритет исследования | Актуальность, легитимность | Примечание |
@@ -23,8 +32,17 @@
 | 6 | Мировой рынок / Аналитика | «Мировой рынок онлайн-доставки еды вырос до $1 трлн...» | Михаил Светлов, журналист; MYFIN | 10.11.2023 | [myfin.by](https://myfin.by/article/biznes/mirovoj-rynok-onlajn-dostavki-edy-vyros-do-1-trln-kak-on-budet-razvivatsa-v-blizajsie-gody) | средний | изучено | Проанализировать функции конкурентов |
 | 7 | Исследование рынка | «Россияне чаще всего покупают в интернете одежду...» | Татьяна Боброва; vc.ru | 01.12.2021 | [vc.ru](https://vc.ru/marketplace/327600-rossiyane-chashe-vsego-pokupayut-v-internete-odezhdu-lyubyat-besplatnuyu-dostavku-i-sami-zabirat-zakazy-issledovanie) | средний | исследование | Онлайн-торговля |
 
+# Список ссылок
+
+1. https://www.consultant.ru/document/cons_doc_LAW_124768/00dd811677fbe1241874d9e9aab09a2506b2424d/
+2. https://docs.cntd.ru/document/1301825519
+3. https://deliverplus.ru/
+4. https://kuper.ru/
+5. https://delprof.ru/press-center/open-analytics/rynok-dostavki-gotovoy-edy/
+6. https://myfin.by/article/biznes/mirovoj-rynok-onlajn-dostavki-edy-vyros-do-1-trln-kak-on-budet-razvivatsa-v-blizajsie-gody
+7. https://vc.ru/marketplace/327600-rossiyane-chashe-vsego-pokupayut-v-internete-odezhdu-lyubyat-besplatnuyu-dostavku-i-sami-zabirat-zakazy-issledovanie
 ---
-# Упражнение 02 - Глоссарий (система-онлайн-записи)
+# 02 - Глоссарий (система-онлайн-записи)
 
 ### BBS_glossary
 
@@ -42,7 +60,7 @@
 | 10 | Платеж | Финансовая операция, связанная с оплатой оказанной услуги. Менеджер выставляет счёт и фиксирует факт оплаты. | BSA 00 |
 | 11 | Отчет | Сформированный системой документ, отражающий ключевые бизнес-показатели (выполненные услуги, загрузка мастеров, выручка). | BSA 00 |
 
-# Упражнение 03 - Понятие декомпозиции (Основные понятия декомпозиции) (decomposition)
+# 03 - Понятие декомпозиции (Основные понятия декомпозиции) (decomposition)
 
 ## Концепция разложения
 
@@ -88,7 +106,7 @@
 
 ---
 
-# Упражнение 04 — Виды декомпозиции (Vida decompositions) (types)
+# 04 — Виды декомпозиции (Vida decompositions) (types)
 
 **Меню завтрака:**  вареное яйцо, тост с маслом, сок, чай.
 
@@ -135,7 +153,7 @@
 
 ---
 
-# Упражнение - 06 (rules)
+# 06 (rules)
 
 ## 16 активностей моего дня
 
