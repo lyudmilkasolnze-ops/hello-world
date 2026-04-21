@@ -38,8 +38,6 @@
 - [ex01__BBS_infosources.xlsx](./BSA00/BBS/ex01__BBS_infosources.xlsx)
 - [ex01__FRECH_infosources.xlsx](./BSA00/FRECH/ex01__FRECH_infosources.xlsx)
 
-> Примечание: во втором файле исправлено название — было `ex01__ FRECH_infosources.xlsx` (лишний пробел).
-
 ---
 
 ### 02. Составление словаря понятий
