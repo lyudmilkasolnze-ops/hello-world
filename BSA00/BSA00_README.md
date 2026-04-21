@@ -35,8 +35,8 @@
 Я нашла несколько сайтов и статей о системах записи и службах доставки, чтобы понять, какие функции там важны, и записала их в список для изучения.
 
 **Файлы Excel:**
-- [ex01__BBS_infosources.xlsx](./BSA00/BBS/ex01__BBS_infosources.xlsx)
-- [ex01__FRECH_infosources.xlsx](./BSA00/FRECH/ex01__FRECH_infosources.xlsx)
+- [ex01__BBS_infosources.xlsx](/BSA00/BBS/ex01__BBS_infosources.xlsx)
+- [ex01__FRECH_infosources.xlsx](/BSA00/FRECH/ex01__FRECH_infosources.xlsx)
 
 ---
 
@@ -46,8 +46,8 @@
 Например, что именно мы считаем «заказом», кто такая «менеджер» и что входит в понятие «услуга». Это помогает избежать недопонимания в будущем.
 
 **Файлы Excel:**
-- [ex02__BBS_glossary.xlsx](./BSA00/BBS/ex02__BBS_glossary.xlsx)
-- [ex02__FRECH_glossary.xlsx](./BSA00/FRECH/ex02__FRECH_glossary.xlsx)
+- [ex02__BBS_glossary.xlsx](/BSA00/BBS/ex02__BBS_glossary.xlsx)
+- [ex02__FRECH_glossary.xlsx](/BSA00/FRECH/ex02__FRECH_glossary.xlsx)
 
 ---
 
@@ -57,7 +57,7 @@
 Для практики взяла таблицу с данными о населении. Задача была понять, как правильно разделить людей по возрасту и полу, чтобы картина была полной и понятной.
 
 **Файл:**
-- [ex03_decomposition.docx](./BSA00/ex03_decomposition.docx)
+- [ex03_decomposition.docx](/BSA00/ex03_decomposition.docx)
 
 ---
 
@@ -67,7 +67,7 @@
 Я искала ошибки в том, как можно перечислить продукты и приборы, и исправляла их, чтобы каждый пункт был на своём месте и не повторял другие.
 
 **Файл:**
-- [ex04_types.docx](./BSA00/ex04_types.docx)
+- [ex04_types.docx](/BSA00/ex04_types.docx)
 
 ---
 
@@ -77,7 +77,7 @@
 Также я перечислила всех людей, которые участвуют в процессе (от администратора до бухгалтера), и описала, кто за что отвечает.
 
 **Файл:**
-- [ex05_types.docx](./BSA00/FRECH/ex05_types.docx)
+- [ex05_types.docx](/BSA00/FRECH/ex05_types.docx)
 
 ---
 
@@ -88,7 +88,7 @@
 Это помогло понять, как выбор цели влияет на то, как мы делим задачи.
 
 **Файл:**
-- [ex06_rules.docx](./BSA00/FRECH/ex06_rules.docx)
+- [ex06_rules.docx](/BSA00/FRECH/ex06_rules.docx)
 
 ---
 
