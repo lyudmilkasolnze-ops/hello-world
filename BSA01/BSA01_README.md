@@ -39,7 +39,7 @@
 Распределила всех стейкхолдеров по этим слоям и построила диаграмму.
 
 Файл:
-- [ex01_FRECH_onion.pdf](/BSA01/FRECH/ex01_FRECH_onion.pdf)
+- [ex01_FRECH_onion.png](/BSA01/FRECH/ex01_FRECH_onion.png)
 
 #### 02. Анализ интересов, потребностей и проблем (Ex02)
 

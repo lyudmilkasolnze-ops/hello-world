@@ -101,7 +101,7 @@
 
 ### ex01: Луковичная диаграмма (Onion diagram)
 
-![Луковичная диаграмма FRECH](./images/ex01_FRECH_onion.png)
+![Луковичная диаграмма FRECH](/BSA01/FRECH/ex01_FRECH_onion.png)
 
 ### ex02: Интересы, потребности, проблемы (FRECH)
 
