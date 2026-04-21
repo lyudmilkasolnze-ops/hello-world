@@ -25,7 +25,7 @@
 
 **Ссылки на папки:**
 - [BSA00/BBS](/BSA00/BBS)
-- [BSA00/FRECH](./BSA00/FRECH)
+- [BSA00/FRECH](/BSA00/FRECH)
 
 ---
 
