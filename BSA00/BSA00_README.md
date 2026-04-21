@@ -35,8 +35,8 @@
 Я нашла несколько сайтов и статей о системах записи и службах доставки, чтобы понять, какие функции там важны, и записала их в список для изучения.
 
 **Файлы Excel:**
-- [ex01__BBS_infosources.xlsx](/BSA00/BBS/ex01__BBS_infosources.xlsx)
-- [ex01__FRECH_infosources.xlsx](/BSA00/FRECH/ex01__ FRECH_infosources.xlsx)
+- [ex01_BBS_infosources.xlsx](/BSA00/BBS/ex01_BBS_infosources.xlsx)
+- [ex01_FRECH_infosources.xlsx](/BSA00/FRECH/ex01_FRECH_infosources.xlsx)
 
 ---
 
@@ -46,8 +46,8 @@
 Например, что именно мы считаем «заказом», кто такая «менеджер» и что входит в понятие «услуга». Это помогает избежать недопонимания в будущем.
 
 **Файлы Excel:**
-- [ex02__BBS_glossary.xlsx](/BSA00/BBS/ex02__BBS_glossary.xlsx)
-- [ex02__FRECH_glossary.xlsx](/BSA00/FRECH/ex02__ FRECH_glossary.xlsx)
+- [ex02_BBS_glossary.xlsx](/BSA00/BBS/ex02_BBS_glossary.xlsx)
+- [ex02_FRECH_glossary.xlsx](/BSA00/FRECH/ex02_FRECH_glossary.xlsx)
 
 ---
 
