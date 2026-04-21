@@ -24,8 +24,8 @@
 Определила характеристики каталога: идентификатор, ФИО, организация/физлицо, категория стейкхолдера, уровень контактности с системой (для луковичной диаграммы), роль в проекте и дату добавления.
 
 Файлы Excel:
-- [ex00_BBS_stakeholders.xlsx](./BSA01/BBS/ex00_BBS_stakeholders.xlsx)
-- [ex00_FRECH_stakeholders.xlsx](./BSA01/FRECH/ex00_FRECH_stakeholders.xlsx)
+- [ex00_BBS_stakeholders.xlsx](/BSA01/BBS/ex00_BBS_stakeholders.xlsx)
+- [ex00_FRECH_stakeholders.xlsx](/BSA01/FRECH/ex00_FRECH_stakeholders.xlsx)
 
 #### 01. Построение луковичной диаграммы (Ex01)
 
@@ -39,7 +39,7 @@
 Распределила всех стейкхолдеров по этим слоям и построила диаграмму.
 
 Файл:
-- [ex01_FRECH_onion.pdf](./BSA01/FRECH/ex01_FRECH_onion.pdf)
+- [ex01_FRECH_onion.pdf](/BSA01/FRECH/ex01_FRECH_onion.pdf)
 
 #### 02. Анализ интересов, потребностей и проблем (Ex02)
 
@@ -51,8 +51,8 @@
 Это помогло сформировать основу для будущих требований.
 
 Файлы Excel:
-- [ex02_BBS_needs.xlsx](./BSA01/BBS/ex02_BBS_needs.xlsx)
-- [ex02_FRECH_needs.xlsx](./BSA01/FRECH/ex02_FRECH_needs.xlsx)
+- [ex02_BBS_needs.xlsx](/BSA01/BBS/ex02_BBS_needs.xlsx)
+- [ex02_FRECH_needs.xlsx](/BSA01/FRECH/ex02_FRECH_needs.xlsx)
 
 #### 03. Составление глоссария (Ex03)
 
@@ -60,8 +60,8 @@
 В него вошли как роли (мастер, менеджер, администратор, курьер, диспетчер), так и бизнес-сущности (услуга, заказ, запись, отчёт, платёж, окно слота и другие).
 
 Файлы Excel:
-- [ex03_BBS_glossary.xlsx](./BSA01/BBS/ex03_BBS_glossary.xlsx)
-- [ex03_FRECH_glossary.xlsx](./BSA01/FRECH/ex03_FRECH_glossary.xlsx)
+- [ex03_BBS_glossary.xlsx](/BSA01/BBS/ex03_BBS_glossary.xlsx)
+- [ex03_FRECH_glossary.xlsx](/BSA01/FRECH/ex03_FRECH_glossary.xlsx)
 
 ### Итог
 
