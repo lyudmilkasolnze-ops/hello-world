@@ -36,7 +36,7 @@
 
 **Файлы Excel:**
 - [ex01__BBS_infosources.xlsx](/BSA00/BBS/ex01__BBS_infosources.xlsx)
-- [ex01__ FRECH_infosources.xlsx](/BSA00/FRECH/ex01__ FRECH_infosources.xlsx)
+- [ex01__FRECH_infosources.xlsx](/BSA00/FRECH/ex01__ FRECH_infosources.xlsx)
 
 ---
 
@@ -47,7 +47,7 @@
 
 **Файлы Excel:**
 - [ex02__BBS_glossary.xlsx](/BSA00/BBS/ex02__BBS_glossary.xlsx)
-- [ex02__ FRECH_glossary.xlsx](/BSA00/FRECH/ex02__ FRECH_glossary.xlsx)
+- [ex02__FRECH_glossary.xlsx](/BSA00/FRECH/ex02__ FRECH_glossary.xlsx)
 
 ---
 
