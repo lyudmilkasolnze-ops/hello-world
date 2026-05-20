@@ -10,7 +10,6 @@
 
 </div>
 - 💨 **Фен** — maybe интернет-магазин техники или лендинг бренда
-
 <div align="center">
 
 [![Открыть в Figma](https://img.shields.io/badge/🎨%20Figma-Нажми_сюда,_чтобы_посмотреть_работу-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/V6WmoOa6R230U2YOTIINqi/%D0%9C%D0%BE%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B?node-id=1-3&t=bckmuG3quZnuduci-1)
@@ -27,7 +26,7 @@
 
 [![Открыть в Figma](https://img.shields.io/badge/🎨%20Figma-Нажми_сюда,_чтобы_посмотреть_работу-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/V6WmoOa6R230U2YOTIINqi/%D0%9C%D0%BE%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B?node-id=1-4&t=bckmuG3quZnuduci-1)
 
-*🔗 кнопка кликабельна*
+*🔗 кнопки кликабельны*
 
 </div>
 
