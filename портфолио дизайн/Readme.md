@@ -25,7 +25,11 @@
 - 💪 **Фитнес** — приложение или сайт для записи в зал (X'FLOW GYM)
 <div align="center">
 
-[![Посмотреть портфолио](https://img.shields.io/badge/🎨%20Figma-Мои%20работы-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/V6WmoOa6R230U2YOTIINqi/%D0%9C%D0%BE%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B?node-id=1-4&t=bckmuG3quZnuduci-1)
+**📁 Моё портфолио в Figma**
+
+[![Открыть в Figma](https://img.shields.io/badge/🎨-Нажми_сюда,_чтобы_посмотреть_работы-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/V6WmoOa6R230U2YOTIINqi/%D0%9C%D0%BE%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B?node-id=1-4&t=bckmuG3quZnuduci-1)
+
+*🔗 кнопка кликабельна*
 
 </div>
 
